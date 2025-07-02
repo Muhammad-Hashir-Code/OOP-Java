@@ -1,7 +1,7 @@
-##OOP-Java-Projects
+## OOP-Java-Projects
 A curated collection of Java projects built using Object-Oriented Programming (OOP) principles.
 
-📌## About the Repo
+## About the Repo
 This repository contains hands-on Java OOP projects to help learners and developers strengthen their understanding of core object-oriented concepts through practical implementation. Each project is fully structured, commented, and demonstrates clean OOP architecture.
 
 ## What's Inside:
@@ -32,12 +32,12 @@ This repository contains hands-on Java OOP projects to help learners and develop
 
 ✅ Arrays, ArrayLists & Loops
 
-🛠️ ## Tech Stack
+## Tech Stack
 Java 8+
 
 IntelliJ IDEA
 
 Java Swing (for GUI projects)
 
-🤝 ## Contributing
+ ## Contributing
 Pull requests and suggestions are welcome! Fork the repo, add your own OOP-based Java project, and contribute to the learning community
